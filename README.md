@@ -55,9 +55,11 @@ I build **scalable, high-performance web applications** with clean architecture,
 
 ---
 
-## 📈 Top Languages
+
+## 📈 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdev26&layout=compact&theme=tokyonight)
+
 
 ---
 
