@@ -53,13 +53,6 @@ I build **scalable, high-performance web applications** with clean architecture,
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=adarshdev26&theme=tokyonight)
 
----
-
-
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdev26&layout=compact&theme=tokyonight)
-
 
 ---
 
@@ -79,18 +72,5 @@ I build **scalable, high-performance web applications** with clean architecture,
 
 ## 📫 Reach Me
 - GitHub: [@adarshdev26](https://github.com/adarshdev26)
-- LinkedIn: *(add your LinkedIn link)*
 
 ---
-
-## 😄 Pronouns
-He / Him
-
----
-
-## ⚡ Fun Fact
-I enjoy optimizing APIs, automating deployments, and exploring how **AI can make developers faster and smarter** 🤖
-
-<!---
-adarshdev26/adarshdev26 is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
---->
